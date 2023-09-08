@@ -92,3 +92,6 @@ console.log(getEachElement);
 const numberOfAray = [21, 2, 3, 5, 7, 22, 10, 20];
 const getOddNumbers = numberArray.map(numberArray=>numberArray/ 2 == 1);
 console.log(getOddNumbers);
+
+
+// number 11 problem solving
